@@ -1,1 +1,2 @@
 Git Scm Training
+Adding the second line
